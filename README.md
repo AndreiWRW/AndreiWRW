@@ -1,4 +1,4 @@
-![Header](https://github.com/July-vilh/July-vilh/blob/main/asserts/image.gif)
+![Header](https://github.com/AndreiWRW/Logo/blob/main/image.gif)
 
 ## Hi there 👋!    
 Allow me to introduce myself. My name is Andrei, I work for A1QA as a trainee.  
