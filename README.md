@@ -1,5 +1,5 @@
 ### Hi there 👋!    
-Allow me to intriduce myself. My name is Andrei, I work for A1QA as a trainee. I can carry out tests, write test documentation, search for defects and create bug-reports, write good test-reports. I can help customers to improve the quality of their software, even if they don't know what is it. Actually, I can be helpful at any stage of SDLC. 
+Allow me to introduce myself. My name is Andrei, I work for A1QA as a trainee. I can carry out tests, write test documentation, search for defects and create bug-reports, write good test-reports. I can help customers to improve the quality of their software, even if they don't know what is it. Actually, I can be helpful at any stage of SDLC. 
    Furthermore, I am a good team player with an eye for detail (love team sports). I am constantly learning and extremely hardworking person. I always do my best to complete the tasks.
 
 <!--
