@@ -13,8 +13,8 @@ Furthermore, I am a good team player with an eye for detail (love team sports). 
 ![GITHUB](https://img.shields.io/badge/-GITHUB-000000??style=for-the-badge&logo=GITHUB&logoColor=ADA5A5)
 ![MySQL](https://img.shields.io/badge/-MySQL-000000??style=for-the-badge&logo=POSTGRESQL&logoColor=#9e9eeb)
 ![FIGMA](https://img.shields.io/badge/-FIGMA-000000??style=for-the-badge&logo=FIGMA&logoColor=d627d8)
-![SCRUM](https://img.shields.io/badge/-SCRUM-000000??style=for-the-badge&logo=SCRUM&logoColor=d627d8)
-![CHARLESPROXY](https://img.shields.io/badge/-CHARLESPROXY-000000??style=for-the-badge&logo=CHARLESPROXY&logoColor=2dd827)
+![CHARLES](https://img.shields.io/badge/-CHARLESPROXY-000000??style=for-the-badge&logo=CHARLESPROXY&logoColor=2dd827)
+![FIDDLER](https://img.shields.io/badge/-CHARLESPROXY-000000??style=for-the-badge&logo=CHARLESPROXY&logoColor=2dd827)
 ![DEVTOOLS](https://img.shields.io/badge/-DEVTOOLS-000000??style=for-the-badge&logo=DEVTOOLS&logoColor=2dd827)
 
 ### My CV
