@@ -1,4 +1,4 @@
-![Header](https://github.com/AndreiWRW/AndreiWRW/blob/main/logo/image.gif)
+![Header](https://github.com/AndreiWRW/AndreiWRW/logo/image.gif)
 
 ## Hi there 👋!    
 Allow me to introduce myself. My name is Andrei, I work for A1QA as a trainee.  
