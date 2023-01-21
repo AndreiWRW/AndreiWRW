@@ -1,4 +1,4 @@
-![Header](https://github.com/AndreiWRW/AndreiWRW/logo/image.gif)
+![Header](https://github.com/July-vilh/July-vilh/blob/main/asserts/image.gif)
 
 ## Hi there 👋!    
 Allow me to introduce myself. My name is Andrei, I work for A1QA as a trainee.  
@@ -9,7 +9,6 @@ Furthermore, I am a good team player with an eye for detail (love team sports). 
 
 ### Languages and Tools
 ![SQL](https://img.shields.io/badge/-SQL-000000??style=for-the-badge&logo=MYSQL&logoColor=229799)
-
 ![JIRA](https://img.shields.io/badge/-JIRA-000000??style=for-the-badge&logo=JIRA&logoColor=2643cc)
 ![GITHUB](https://img.shields.io/badge/-GITHUB-000000??style=for-the-badge&logo=GITHUB&logoColor=ADA5A5)
 ![MySQL](https://img.shields.io/badge/-MySQL-000000??style=for-the-badge&logo=POSTGRESQL&logoColor=#9e9eeb)
