@@ -1,6 +1,4 @@
-![Image alt]
-(https://github.com/AndreiWRW/Logo/image.gif)
-Logo/image.gif
+![Image alt](https://github.com/AndreiWRW/Logo/raw/branch/Logo/image.gif)
 
 
 ### Hi there 👋!    
