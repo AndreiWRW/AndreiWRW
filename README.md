@@ -18,7 +18,7 @@ Furthermore, I am a good team player with an eye for detail (love team sports). 
 ![DEVTOOLS](https://img.shields.io/badge/-DEVTOOLS-000000??style=for-the-badge&logo=DEVTOOLS&logoColor=2dd827)
 
 ### My CV
-![Link to my CV](https://github.com/AndreiWRW/AndreiWRW/Portfolio/CV/CV_ANDREI_SHVEDOV.pdf)
+![Link to my CV](https://github.com/AndreiWRW/Portfolio/blob/main/CV/CV_ANDREI_SHVEDOV.pdf)
 
 
 
