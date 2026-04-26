@@ -14,6 +14,7 @@ Furthermore, I am a good team player with an eye for detail. I am constantly lea
 ![CHARLES](https://img.shields.io/badge/-CHARLES-000000??style=for-the-badge&logo=CHARLESPROXY&logoColor=2dd827)
 ![FIDDLER](https://img.shields.io/badge/-FIDDLER-000000??style=for-the-badge&logo=CHARLESPROXY&logoColor=2dd827)
 ![DEVTOOLS](https://img.shields.io/badge/-DEVTOOLS-000000??style=for-the-badge&logo=DEVTOOLS&logoColor=2dd827)
+![Python](https://img.shields.io/badge/-GITHUB-000000??style=for-the-badge&logo=GITHUB&logoColor=ADA5A5)
 
 ### My CV
 ![Link to my CV](https://github.com/AndreiWRW/Portfolio/blob/main/CV/CV_ANDREI_SHVEDOV.pdf)
