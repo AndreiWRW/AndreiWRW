@@ -16,7 +16,7 @@ I am a good team player with an eye for detail. I am constantly learning and ext
 ![Python](https://img.shields.io/badge/-GITHUB-000000??style=for-the-badge&logo=GITHUB&logoColor=ADA5A5)
 
 ### My CV
-![Link to my CV](https://github.com/AndreiWRW/Portfolio/blob/main/CV/CV_ANDREI_SHVEDOV.pdf)
+
 
 
 
